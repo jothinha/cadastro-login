@@ -1,0 +1,19 @@
+
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+label{
+    text-align: center;
+    color: white;
+}
+
+#form{
+    text-align: center;
+}
+
+.btn-warning{
+    margin-top: 20px;
+}
